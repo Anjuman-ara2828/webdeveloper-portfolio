@@ -169,6 +169,13 @@ line-height: 30px;
         margin-top: 50px;
 
     }
+    /*footer style  */
+    footer{
+        display: flex;
+        background-color: #FFF8F3;
+        margin: 100px;
+        padding: 130px 200px;
+    }
 
     
    
